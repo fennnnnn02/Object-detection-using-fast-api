@@ -35,17 +35,17 @@ INFO: Application startup complete.
   * Dataset from roboflow - https://public.roboflow.com/object-detection/aquarium
   * Yolov5 repo - [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
-* Testing the API -
-
-![Screenshot_20221227_202758](/uploads/0625bc836f6048888050b45a2a864d3f/Screenshot_20221227_202758.png)
+* Test
+![Screenshot_20221227_202758](https://user-images.githubusercontent.com/91083791/209822834-72374d3f-e004-4aa2-94da-5d1a31648990.png)
+ing the API -
 
   * Test Image - 
+![IMG_2446_jpeg_jpg rf 06ee05e92df8e3c33073147d8f595211](https://user-images.githubusercontent.com/91083791/209822984-0a939ff4-9592-4ee2-97f1-bbdb24eda4c1.jpg)
 
-![image](/uploads/9923b5b24b9f164114d3a926b8fa22d5/image.png)
+![Screenshot_20221227_211557](https://user-images.githubusercontent.com/91083791/209822874-9af951fb-4185-4fce-8ffc-209c523bf225.png)
 
-![Screenshot_20221227_211557](/uploads/7b7a7275c1b6730dcdd93e5a04f6e42d/Screenshot_20221227_211557.png)
+![Screenshot_20221227_211615](https://user-images.githubusercontent.com/91083791/209822881-c85c1552-2226-47c0-967c-74668f12b097.png)
 
-![Screenshot_20221227_211615](/uploads/42b3128a6a0ede7e0cfcd502590c7d7a/Screenshot_20221227_211615.png)
 
 * Here is the complete json object returned by the request - 
 
